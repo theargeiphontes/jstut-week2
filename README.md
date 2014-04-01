@@ -1,2 +1,4 @@
-# jstut-week2
+# Javascript Tutorial Week 2
+
+
 
