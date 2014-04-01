@@ -1,0 +1,19 @@
+{
+  "name": "jstut-week2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cbednarski/jstut-week2.git"
+  },
+  "author": "Chris Bednarski <banzaimonkey@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbednarski/jstut-week2/issues"
+  },
+  "homepage": "https://github.com/cbednarski/jstut-week2"
+}
